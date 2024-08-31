@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Hariom, a full-time frontend freelance developer 👨‍💻 </div>  
+### <div align="center">I'm Hariom, a full stack developer 👨‍💻 </div>  
   
 
 - **🔭 I’m currently working on **  
